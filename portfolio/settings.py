@@ -13,7 +13,7 @@ SECRET_KEY = 'django-insecure-change-this-in-production-vikesh-portfolio-2025'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['vikesh3864.pythonanywhere.com', 'localhost', '127.0.0.1']
 
 # Application definition
 INSTALLED_APPS = [
